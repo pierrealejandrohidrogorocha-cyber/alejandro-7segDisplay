@@ -17,5 +17,5 @@ Connect a button to VCC and all the clocks of the flip flops and connect each ou
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if an
+-List external hardware used in your project (e.g. PMOD, LED display, etc), if any. 
 7 segment display, button
